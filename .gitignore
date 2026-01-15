@@ -1,0 +1,9 @@
+# Terraform generated files
+.terraform/
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+
+# Optional
+.crash.log
+
